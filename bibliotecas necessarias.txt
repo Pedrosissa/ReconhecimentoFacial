@@ -1,0 +1,4 @@
+bibliotecas necessarias:
+Opencv contrib
+Numpy
+Os ( Sistema Operacional )
